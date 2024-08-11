@@ -1,1 +1,1 @@
-# Monostar14.github.io
+# 一个 wiki 可以写一写求生之路的
